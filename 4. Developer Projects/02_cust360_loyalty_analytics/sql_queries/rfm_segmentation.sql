@@ -1,0 +1,1 @@
+-- SQL for RFM segmentation placeholder

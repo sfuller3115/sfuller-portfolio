@@ -1,0 +1,1 @@
+-- SQL for product/customer similarity placeholder

@@ -1,0 +1,1 @@
+-- SQL for loyalty summary view placeholder
